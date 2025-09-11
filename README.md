@@ -64,8 +64,8 @@ The program builds a strong foundation in **footprinting, scanning, enumeration,
 
 | Content | Screenshot |
 |---------|------------|
-| 🏫 Course Overview | ![](./screenshots/course-overview.png) |
-| 📑 Learning Content | ![](./screenshots/course-learn.png) |
+| 🏫 Course Overview | ![](./screenshots/couse%20overview.png) |
+| 📑 Learning Content | ![](./screenshots/couse%20learn.png) |
 
 ---
 
